@@ -1,0 +1,69 @@
+        #firstdiv {
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+        
+        .div {
+            margin-left: 35%;
+            margin-right: 15%;
+            margin-top: 20px;
+            font-size: 30px;
+            margin-bottom: 20px;
+            cursor: context-menu;
+        }
+        
+        .botn {
+            border: none;
+            background-color: #01f9c6;
+            color: rgb(43, 1, 56);
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 32px;
+            font-family: 'Segoe UI';
+            margin-left: 40%;
+        }
+        
+        .boten {
+            border: solid;
+            border-radius: 9px;
+            padding: 3px;
+            padding-left: 8px;
+            padding-right: 8px;
+            color: #01f9c6;
+            border-style: solid;
+            border-color: #01f9c6;
+            /* padding: 15px 32px; */
+            text-align: center;
+            text-decoration: none;
+            /* display: inline-block; */
+            font-size: 16px;
+            cursor: context-menu;
+            font-family: 'Segoe UI';
+            cursor: context-menu;
+        }
+        
+        .Card {
+            margin-right: 8px;
+            margin-left: 8px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            background-color: black;
+            border-style: solid;
+            border-color: #01f9c6;
+            color: #01f9c6;
+            cursor: context-menu;
+        }
+        
+        .navvv {
+            background-color: rgb(255, 255, 255);
+        }
+        
+        #notes {
+            color: #01f9c6;
+            font-size: x-large;
+            font-style: italic;
+            cursor: context-menu;
+        }
