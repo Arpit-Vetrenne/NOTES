@@ -67,3 +67,13 @@
             font-style: italic;
             cursor: context-menu;
         }
+        
+        .addtt {
+            font-size: 24px;
+        }
+        
+        .formt {
+            border-radius: 9px;
+            width: 500px;
+            height: 40px
+        }
