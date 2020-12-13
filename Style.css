@@ -2,9 +2,10 @@
             margin-left: 15%;
             margin-right: 15%;
         }
-        ::selection {
-  color: black;
-  background: #01f9c6;
+
+::selection {
+color: black;
+background: #01f9c6;
 }
         .div {
             margin-left: 35%;
